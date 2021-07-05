@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/manager_employee",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "caongan",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Model\\": "model",
+      "Controller\\": "controller"
+    }
+  },
+  "require": {
+  }
+}
