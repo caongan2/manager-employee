@@ -14,7 +14,7 @@
 <?php
 include_once "vendor/autoload.php";
 include_once "view/navbar.php";
-include "rounter.php";
+include "router.php";
 ?>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

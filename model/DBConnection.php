@@ -30,7 +30,7 @@ class DBConnection
          }
     }
 }
-
-
-$db = new DBConnection();
-$db->connect();
+//
+//
+//$db = new DBConnection();
+//$db->connect();
